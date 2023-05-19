@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Evgenii</h1>
 <h3 align="center">I'm front end developer</h3>
 
-I'm really into web and mobile apps, automation and bots, DIY, 3D printing, generative art, guitar and fpv drones. 
+🚀 I'm really into web and mobile apps, automation and bots, DIY, 3D printing, generative art, guitar and fpv drones. 
 
 📝 I write in [my blog](https://jem-space.ru) and [Telegram channel](https://t.me/five_a_m).
 
@@ -17,12 +17,13 @@ I'm really into web and mobile apps, automation and bots, DIY, 3D printing, gene
 
 ### My latest projects
 
-- [Admin Panel for Poster](https://github.com/jemsgit/poster-admin) 
-- [Cat Feeder](https://github.com/jemsgit/CatFeeder2)
-- [CCTV for ESP](https://github.com/jemsgit/espCCTV)
-- [Car Temp](https://github.com/jemsgit/CarTemp)
+- 🖼 [Landing for art store](https://github.com/jemsgit/codeart-landing)
+- 👨🏻‍💻 [Admin Panel for Poster](https://github.com/jemsgit/poster-admin) 
+- 🚗 [Car Temp](https://github.com/jemsgit/CarTemp)
+- 😺 [Cat Feeder](https://github.com/jemsgit/CatFeeder2)
+- 📹 [CCTV for ESP](https://github.com/jemsgit/espCCTV)
 
-There is a list of my Telegram channels about development:
+There is a list of my Telegram dev channels:
 <table>
   <tr>
     <td>
