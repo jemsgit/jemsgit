@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Evgenii</h1>
 <h3 align="center">I'm front end developer</h3>
 
-I'm really into web and mobile apps, automation and bots, DIY, 3-D printing, generative art, guitar and fpv drones. 
+I'm really into web and mobile apps, automation and bots, DIY, 3D printing, generative art, guitar and fpv drones. 
 
 📝 I write in [my blog](https://jem-space.ru) and [Telegram channel](https://t.me/five_a_m).
 
@@ -14,8 +14,10 @@ There is a list of my Telegram channels about development:
 - [HabrForDev](https://t.me/habr_for_dev)
 
 ### Languages:
-[![](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py)](https://skillicons.dev)
+<img src='https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py' width='200' />
+
 ### Frameworks ❤️:
-[![](https://skillicons.dev/icons?i=react,jest,arduino)](https://skillicons.dev)
+<img src='https://skillicons.dev/icons?i=react,jest,arduino' width='100' />
+
 ### Tools:
-[![](https://skillicons.dev/icons?i=linux,bash,raspberrypi,vscode,webpack,gulp,jenkins,git,docker)](https://skillicons.dev)
+<img src='https://skillicons.dev/icons?i=linux,bash,raspberrypi,vscode,webpack,gulp,jenkins,git,docker' width='300' />
